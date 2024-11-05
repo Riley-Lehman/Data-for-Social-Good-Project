@@ -33,7 +33,7 @@ Dataset: [Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paint
 
 ## UML Diagram 
 
-![alt text](image.png) 
+![alt text](image.png)
 
 ## Description 
 
