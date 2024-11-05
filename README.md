@@ -15,15 +15,11 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
 > As an art analist, <br> 
 > I want to sort art via style and nationality, <br> 
 > so that I can analyze the percentage of certain styles and nationalities in a large pool of diverse pieces of art. 
 
 ## Dataset 
-
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.  
 
 Dataset: [Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings) 
 
